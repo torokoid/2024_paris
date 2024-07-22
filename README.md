@@ -103,7 +103,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="white"><br>～～～7月19日、「パリ到着しました」から始まるパリ映像の共有！～～～<br><br></span></h3>
+<h3><span class="white"><br>～～～7月19日、「パリ到着しました」から始まるパリ映像の共有！<br>まずはLINEの会話から～～～<br><br></span></h3>
+<a href="20240722_236.png" data-lightbox="abc"><img src="20240722_236.png" alt="サンプル画像" width="900" /></a>
+<a href="20240722_237.png" data-lightbox="abc"><img src="20240722_237.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240722_001.JPG" data-lightbox="abc"><img src="20240722_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_002.JPG" data-lightbox="abc"><img src="20240722_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_003.JPG" data-lightbox="abc"><img src="20240722_003.JPG" alt="サンプル画像" width="900" /></a>
