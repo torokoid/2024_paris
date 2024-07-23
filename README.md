@@ -91,6 +91,8 @@ background-color: rgba(0, 225, 0, 0.6);
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
+<p class="topicpath">2024年7月19日〜21日><a href="https://torokoid.github.io/2024_paris2/">7月22日〜</a></p>
+
 <p align="left"> <span class="yellow">&nbsp;Bruce パリに旅立つ！7月19日〜21日</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
