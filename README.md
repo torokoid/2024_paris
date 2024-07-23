@@ -139,7 +139,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_028.JPG" data-lightbox="abc"><img src="20240722_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_029.JPG" data-lightbox="abc"><img src="20240722_029.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white"><br>～～～しばらく動画はさみます～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～しばらく動画はさみます～～～<br><br></span></h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/coyGVLc_LrA?si=O66_icXVI8K96_fZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MSLeLDP6r1A?si=4jLvoGIGdsQqCujf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
