@@ -186,7 +186,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h2><span class="yellow"><marquee behavior="left">!!! ここからMonetの家 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! ここからMonetの庭 !!!</marquee></span></h2>
 <a href="20240722_030.JPG" data-lightbox="abc"><img src="20240722_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_031.JPG" data-lightbox="abc"><img src="20240722_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_032.JPG" data-lightbox="abc"><img src="20240722_032.JPG" alt="サンプル画像" width="900" /></a>
