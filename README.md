@@ -212,6 +212,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_052.JPG" data-lightbox="abc"><img src="20240722_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_053.JPG" data-lightbox="abc"><img src="20240722_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_054.JPG" data-lightbox="abc"><img src="20240722_054.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240720_01.png" data-lightbox="abc"><img src="20240720_01.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240722_055.JPG" data-lightbox="abc"><img src="20240722_055.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_056.JPG" data-lightbox="abc"><img src="20240722_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_057.JPG" data-lightbox="abc"><img src="20240722_057.JPG" alt="サンプル画像" width="900" /></a>
@@ -219,6 +222,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_059.JPG" data-lightbox="abc"><img src="20240722_059.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_060.JPG" data-lightbox="abc"><img src="20240722_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_061.JPG" data-lightbox="abc"><img src="20240722_061.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240720_02.png" data-lightbox="abc"><img src="20240720_02.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240722_062.JPG" data-lightbox="abc"><img src="20240722_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_063.JPG" data-lightbox="abc"><img src="20240722_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_064.JPG" data-lightbox="abc"><img src="20240722_064.JPG" alt="サンプル画像" width="900" /></a>
