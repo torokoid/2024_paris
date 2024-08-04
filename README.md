@@ -327,6 +327,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_158.JPG" data-lightbox="abc"><img src="20240722_158.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_159.JPG" data-lightbox="abc"><img src="20240722_159.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_160.JPG" data-lightbox="abc"><img src="20240722_160.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240721_02.png" data-lightbox="abc"><img src="20240721_02.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240722_161.JPG" data-lightbox="abc"><img src="20240722_161.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_162.JPG" data-lightbox="abc"><img src="20240722_162.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_163.JPG" data-lightbox="abc"><img src="20240722_163.JPG" alt="サンプル画像" width="900" /></a>
