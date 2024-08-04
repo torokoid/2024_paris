@@ -246,6 +246,9 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240722_080.JPG" data-lightbox="abc"><img src="20240722_080.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_081.JPG" data-lightbox="abc"><img src="20240722_081.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_082.JPG" data-lightbox="abc"><img src="20240722_082.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20240721_01.png" data-lightbox="abc"><img src="20240721_01.png" alt="サンプル画像" width="900" /></a>
+
 <a href="20240722_083.JPG" data-lightbox="abc"><img src="20240722_083.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_084.JPG" data-lightbox="abc"><img src="20240722_084.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240722_085.JPG" data-lightbox="abc"><img src="20240722_085.JPG" alt="サンプル画像" width="900" /></a>
